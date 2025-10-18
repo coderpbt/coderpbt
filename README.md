@@ -34,6 +34,8 @@ Currently, I’m on a journey to become a **Full-Stack Developer**, learning **N
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![WPBakery](https://img.shields.io/badge/WPBakery-1CA9C9?style=for-the-badge&logo=wpbakery&logoColor=white)
+
 
 **Tools :**  
 ![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)
