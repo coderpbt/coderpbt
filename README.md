@@ -80,7 +80,7 @@ When I’m not coding, I love experimenting with **modern UI animations**, explo
 ## 🏆 GitHub Stats  
  
 ![Yeasin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=coderpbt&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?coderpbt=yourusername&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderpbt&layout=compact&theme=tokyonight)  
  
 ---
  
